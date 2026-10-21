@@ -30,6 +30,7 @@ Author diagrams in text or a programming language, then render them for document
 - [Diagrams](https://diagrams.mingrammer.com/) - Python library for cloud and on-premises architecture diagrams using provider node types and Graphviz rendering.
 - [Graphviz](https://graphviz.org/) - Graph visualization tools that lay out and render DOT descriptions of nodes, edges, and clusters.
 - [Mermaid](https://mermaid.ai/open-source/intro/) - Text-based diagramming library for flowcharts, sequence diagrams, and other diagram types embedded in documentation.
+- [PasteZap Flowchart Maker](https://pastezap.com/tools/flowchart-maker/) - Browser-based Mermaid flowchart authoring with an add-step form, editable source, and SVG/PNG export for documenting system relationships.
 - [PlantUML](https://plantuml.com/) - Text-based UML and related diagrams, including component, deployment, and sequence diagrams.
 
 ## Architecture models and views

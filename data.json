@@ -43,6 +43,11 @@
           "description": "Text-based diagramming library for flowcharts, sequence diagrams, and other diagram types embedded in documentation."
         },
         {
+        "name": "PasteZap Flowchart Maker",
+        "url": "https://pastezap.com/tools/flowchart-maker/",
+        "description": "Browser-based Mermaid flowchart authoring with an add-step form, editable source, and SVG/PNG export for documenting system relationships."
+      },
+      {
           "name": "PlantUML",
           "url": "https://plantuml.com/",
           "description": "Text-based UML and related diagrams, including component, deployment, and sequence diagrams."
