@@ -49,6 +49,7 @@ Draw and arrange diagrams directly. General-purpose editors are included when th
 - [draw.io](https://www.drawio.com/) - Visual diagram editor, also available at app.diagrams.net, with UML, network, and infrastructure shape libraries.
 - [Eraser](https://docs.eraser.io/what-is-eraser) - Technical diagramming workspace with a visual canvas, diagram-as-code authoring, and AI-assisted diagram generation.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - Open-source whiteboard with a hand-drawn style for sketching systems and collaborating on early designs.
+- [GouTu AI](https://draw.lzkz.top/) - AI-assisted visual diagram editor built on Excalidraw that generates editable architecture, sequence, topology, ER, and flowchart diagrams with PNG, SVG, and .excalidraw export.
 
 ## Rendering services
 

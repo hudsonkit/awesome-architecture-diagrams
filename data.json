@@ -100,6 +100,11 @@
           "name": "Excalidraw",
           "url": "https://github.com/excalidraw/excalidraw",
           "description": "Open-source whiteboard with a hand-drawn style for sketching systems and collaborating on early designs."
+        },
+        {
+          "name": "GouTu AI",
+          "url": "https://draw.lzkz.top/",
+          "description": "AI-assisted visual diagram editor built on Excalidraw that generates editable architecture, sequence, topology, ER, and flowchart diagrams with PNG, SVG, and .excalidraw export."
         }
       ]
     },
